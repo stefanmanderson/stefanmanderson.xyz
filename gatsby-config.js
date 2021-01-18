@@ -40,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Stefan Anderson`,
+        short_name: `Stefan`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
