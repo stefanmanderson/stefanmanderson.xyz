@@ -4,6 +4,7 @@ author: Stefan Manuel Anderson
 date: 2021-01-22
 hero: ./images/hero.jpg
 excerpt: 2020 Year in Review and Moving forward
+subscription: false
 ---
 
 *2020*. 
