@@ -31,6 +31,7 @@ module.exports = {
         contentAuthors: "content/authors",
         basePath: "/",
         authorsPage: true,
+        mailchimp: true,
         sources: {
           local: true,
           // contentful: true,
@@ -52,6 +53,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://xyz.us7.list-manage.com/subscribe/post?u=67c2b58f4a3eaaa48f233c0bb&amp;id=c2f66112c3"',
       },
     },
   ],
