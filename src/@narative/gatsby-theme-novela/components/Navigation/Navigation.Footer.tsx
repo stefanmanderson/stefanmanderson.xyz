@@ -62,7 +62,6 @@ const Footer: React.FC<{}> = () => {
         <HoritzontalRule />
         <FooterContainer>
           <FooterText>
-            hahaha
             © {copyrightDate} {name}
           </FooterText>
           <div>
