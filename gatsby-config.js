@@ -1,25 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Stefan Anderson`,
-    name: `Stefan Anderson`,
-    siteUrl: `https://stefanmanderson.xyz`,
-    description: `Stefan Anderson is a Finance graduate and is teaching about finance in this blog.`,
+    title: `Novela by Narative`,
+    name: `Narative`,
+    siteUrl: `https://novela.narative.co`,
+    description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Hi, my name is Stefan Anderson, let's learn together!`,
+      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/stefanmanderson`,
+        url: `https://twitter.com/narative`,
+      },
+      {
+        name: `github`,
+        url: `https://github.com/narative`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/stefanmanderson`,
+        url: `https://instagram.com/narative.co`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/in/stefanmanderson/`,
+        url: `https://www.linkedin.com/company/narative/`,
+      },
+      {
+        name: `dribbble`,
+        url: `https://dribbble.com/narativestudio`,
       },
     ],
   },
@@ -30,35 +38,22 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
-        mailchimp: true,
         sources: {
           local: true,
-          // contentful: true,
+          contentful: false
         },
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Stefan Anderson`,
-        short_name: `Stefan`,
+        name: `Novela by Narative`,
+        short_name: `Novela`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-mailchimp',
-      options: {
-        endpoint: 'https://xyz.us7.list-manage.com/subscribe/post?u=67c2b58f4a3eaaa48f233c0bb&amp;id=c2f66112c3',
       },
     },
   ],
