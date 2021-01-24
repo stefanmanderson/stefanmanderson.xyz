@@ -7,7 +7,7 @@ excerpt: Research on PTPP. I will discuss my research about PTPP financial perfo
 # subscription: false
 ---
 
-**DISCLAIMER ON : Informasi yang dipaparkan dalam Newsletter ini bersifat sebagai referensi serta bahan pertimbangan, dan bukan merupakan perintah atau ajakan membeli maupun menjual saham terkait. Setiap keuntungan dan kerugian akan menjadi tanggung jawab dari masing-masing perilaku pasar.**
+**DISCLAIMER ON : Informasi yang dipaparkan dalam artikel ini bersifat sebagai referensi serta bahan pertimbangan, dan bukan merupakan perintah atau ajakan membeli maupun menjual saham terkait. Setiap keuntungan dan kerugian akan menjadi tanggung jawab dari masing-masing perilaku pasar.**
 
 <br />
 
