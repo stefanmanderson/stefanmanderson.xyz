@@ -20,6 +20,9 @@ module.exports = {
       {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/stefanmanderson/`,
+      {
+        name: `youtube`,
+        url: `https://www.youtube.com/channel/UCbQErU2oxq1ROJojLo4tQQg`,
       },
     ],
   },
