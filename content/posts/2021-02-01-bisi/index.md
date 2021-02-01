@@ -3,14 +3,14 @@ title: BISI - Destined for Greatness
 author: Stefan Manuel Anderson
 date: 2021-02-01
 hero: ./images/BISI.jpg
-excerpt: Analisa Fundamental BISI bersama Jeremy Owen
+excerpt: Analisa Fundamental BISI bersama Jeremy Owen. Apakah BISI salah satu perusahaan underrated?
 # subscription: false
 ---
 
 **Research Team: Jeremy Owen & Stefan Manuel Anderson**
 
 
-##### DISCLAIMER ON : Informasi yang dipaparkan dalam artikel ini bersifat sebagai referensi serta bahan pertimbangan, dan bukan merupakan perintah atau ajakan membeli maupun menjual saham terkait. Setiap keuntungan dan kerugian akan menjadi tanggung jawab dari masing-masing perilaku pasar.
+##### DISCLAIMER ON : Informasi yang dipaparkan dalam artikel ini bersifat sebagai referensi serta bahan pertimbangan, dan bukan merupakan perintah atau ajakan membeli maupun menjual saham terkait. Setiap keuntungan dan kerugian akan menjadi tanggung jawab dari masing-masing pelaku pasar.
 
 
 
