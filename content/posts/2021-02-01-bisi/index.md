@@ -1,5 +1,5 @@
 ---
-title: BISI - Destined for Greatness 
+title: "Research 02 : BISI - Destined for Greatness"
 author: Stefan Manuel Anderson
 date: 2021-02-01
 hero: ./images/BISI.jpg

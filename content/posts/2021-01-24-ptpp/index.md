@@ -1,5 +1,5 @@
 ---
-title: PTPP Research
+title: "Research 01 : PTPP Research"
 author: Stefan Manuel Anderson
 date: 2021-01-24
 hero: ./images/thumbnail.jpg
